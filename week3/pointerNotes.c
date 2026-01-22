@@ -11,7 +11,7 @@ int main(){
 	// Pointers
 	int a = 5;
 	printf("value of a: %d \n", a);
-	printf("addres of a: %p \n", &a);
+	printf("address of a: %p \n", &a);
 
 	// * is a pointer, means 'value at'
 	
